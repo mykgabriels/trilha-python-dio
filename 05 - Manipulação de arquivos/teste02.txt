@@ -1,0 +1,2 @@
+Testando escrever em arquivos de Texto.
+escrevendoumtexto
